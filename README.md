@@ -1,9 +1,9 @@
-# Mike S Wang
+# [Mike S Wang](https://github.com/MikeSWang)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MikeSWang&hide_title=true&hide_border=true&show_icons=true&rank_icon=github&theme=transparent&include_all_commits=true&show=reviews)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSWang&custom_title=Languages&hide_border=true&theme=transparent&layout=compact&langs_count=8&hide=postscript)
+![Stats](https://github-readme-stats.vercel.app/api?username=MikeSWang&theme=transparent&hide_title=true&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&show=reviews)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSWang&theme=transparent&layout=compact&langs_count=6&custom_title=Languages&hide_border=true&hide=postscript)
 
-[![Triumvirate](https://github-readme-stats.vercel.app/api/pin?username=MikeSWang&repo=Triumvirate&show_owner=true&theme=transparent)](https://github.com/MikeSWang/Triumvirate)
+[![Triumvirate](https://github-readme-stats.vercel.app/api/pin?username=MikeSWang&repo=Triumvirate&theme=transparent&show_owner=true)](https://github.com/MikeSWang/Triumvirate)
 
 <!--
 **MikeSWang/MikeSWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
