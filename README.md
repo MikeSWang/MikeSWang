@@ -1,4 +1,10 @@
-### Hi there 👋
+# Mike S Wang
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MikeSWang&hide_title=true&hide_border=true&show_icons=true&rank_icon=github&theme=transparent&include_all_commits=true&show=reviews)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSWang&hide_title=true&hide_border=true&theme=transparent&layout=compact&hide=postscript)
+
+![Triumvirate](https://github-readme-stats.vercel.app/api/pin?username=MikeSWang&repo=Triumvirate&show_owner=true&theme=transparent)
 
 <!--
 **MikeSWang/MikeSWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
